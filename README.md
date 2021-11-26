@@ -1,3 +1,4 @@
+[![Build Status](https://lutchy.visualstudio.com/oss-toolchain/_apis/build/status/lutchy.pipelines-java?branchName=master)](https://lutchy.visualstudio.com/oss-toolchain/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
